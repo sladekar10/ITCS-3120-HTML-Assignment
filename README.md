@@ -1,1 +1,5 @@
 Shardul Ladekar
+
+The courses in which I used HTML5, CSS, and Event Handling include ITCS 3120 Intro to Computer Graphics (retaking course), ITSC 3155 Software Engineering, and ITSC 4155 Software Development Projects.
+
+Other experiences where I used HTML5, CSS, and Event Handling was when I interned at Fidelity Investments over these past 2 summers. I was required to display a backend SQL database onto a front-end display page where the customers/users of Fidelity would be able to view the data from the SQL database on the page and have it update in real-time as well or if the user wanted to input information to the page, with the help of AWS packages as well. I also used HTML5, CSS, and Event Handling for when I interned at U.S. Bank to create a welcome page for the next batch of interns that would be following my batch which featured a Q/A functionality where future interns could input questions on the page as well as several links they could follow to help them if they need help with onboarding.
