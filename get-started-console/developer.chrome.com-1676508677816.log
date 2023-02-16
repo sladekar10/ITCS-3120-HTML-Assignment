@@ -1,0 +1,85 @@
+document.getElementById('hello').textContent = 'Hello, Console!'
+'Hello, Console!'
+5 + 15
+20
+function add(a, b=20) {
+    return a + b;
+}
+    
+undefined
+add(25);
+45
+Navigated to https://developer.chrome.com/docs/devtools/javascript/
+base.js:8029 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+KA.S @ base.js:8029
+g.k.S @ base.js:9829
+xT @ base.js:4554
+g.yT @ base.js:4552
+g.gU @ base.js:4637
+vV @ base.js:4781
+g.FV @ base.js:4837
+g.HV.create @ base.js:10137
+FR @ base.js:4273
+g.rZ @ base.js:5913
+g.rZ.create @ base.js:10935
+a.L @ www-embed-player.js:1902
+jz @ www-embed-player.js:1903
+l.loadNewVideoConfig @ www-embed-player.js:1897
+(anonymous) @ www-embed-player.js:1895
+(anonymous) @ www-embed-player.js:894
+base.js:8029 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+KA.S @ base.js:8029
+g.k.S @ base.js:9829
+xT @ base.js:4554
+g.yT @ base.js:4552
+g.gU @ base.js:4637
+vV @ base.js:4781
+g.FV @ base.js:4837
+g.HV.create @ base.js:10137
+FR @ base.js:4273
+g.rZ @ base.js:5913
+g.rZ.create @ base.js:10935
+a.L @ www-embed-player.js:1902
+jz @ www-embed-player.js:1903
+l.loadNewVideoConfig @ www-embed-player.js:1897
+(anonymous) @ www-embed-player.js:1895
+(anonymous) @ www-embed-player.js:894
+base.js:8029 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+KA.S @ base.js:8029
+g.k.S @ base.js:9829
+xT @ base.js:4554
+g.yT @ base.js:4552
+ENa @ base.js:4691
+g.k.updateVideoData @ base.js:9921
+g.gU @ base.js:4640
+vV @ base.js:4781
+g.FV @ base.js:4837
+g.HV.create @ base.js:10137
+FR @ base.js:4273
+g.rZ @ base.js:5913
+g.rZ.create @ base.js:10935
+a.L @ www-embed-player.js:1902
+jz @ www-embed-player.js:1903
+l.loadNewVideoConfig @ www-embed-player.js:1897
+(anonymous) @ www-embed-player.js:1895
+(anonymous) @ www-embed-player.js:894
+base.js:8029 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+KA.S @ base.js:8029
+g.k.S @ base.js:9829
+xT @ base.js:4554
+g.yT @ base.js:4552
+tV @ base.js:4773
+vV @ base.js:4785
+g.FV @ base.js:4837
+g.HV.create @ base.js:10137
+FR @ base.js:4273
+g.rZ @ base.js:5913
+g.rZ.create @ base.js:10935
+a.L @ www-embed-player.js:1902
+jz @ www-embed-player.js:1903
+l.loadNewVideoConfig @ www-embed-player.js:1897
+(anonymous) @ www-embed-player.js:1895
+(anonymous) @ www-embed-player.js:894
+www-embed-player.js:894 [Violation] 'setTimeout' handler took 259ms
+base.js:1804 [Violation] 'setTimeout' handler took 126ms
+Navigated to https://developer.chrome.com/docs/devtools/console/javascript/
